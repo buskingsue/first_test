@@ -1,5 +1,6 @@
 # 🙏 매일의 성경 구절
 # [Daily Bible verse]
+[![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 ##
 <!-- START_BIBLE_VERSE -->
 📖 **요한복음 12:8**
