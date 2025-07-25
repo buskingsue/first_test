@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **마태복음 15:23**
-> 예수는 한 말씀도 대답하지 아니하시니 제자들이 와서 청하여 말하되 그 여자가 우리 뒤에서 소리를 지르오니 그를 보내소서
+📖 **사도행전 18:13**
+> 말하되 이 사람이 율법을 어기면서 하나님을 경외하라고 사람들을 권한다 하거늘
 
-🕊️ _업데이트 시각: 2025-07-25 17:55:06 KST_
+🕊️ _업데이트 시각: 2025-07-25 18:48:29 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
