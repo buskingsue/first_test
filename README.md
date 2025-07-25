@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **시편 126:3**
-> 여호와께서 우리를 위하여 큰 일을 행하셨으니 우리는 기쁘도다
+📖 **이사야 29:1**
+> 아리엘을 괴롭게 하리라 슬프다 아리엘이여 아리엘이여 다윗이 진 친 성읍이여 해마다 절기가 돌아오려니와
 
-🕊️ _업데이트 시각: 2025-07-26 04:44:31 KST_
+🕊️ _업데이트 시각: 2025-07-26 04:51:58 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
