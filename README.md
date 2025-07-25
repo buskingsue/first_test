@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **예레미야 6:8**
-> 예루살렘아 너는 훈계를 받으라 그리하지 아니하면 내 마음이 너를 싫어하고 너를 황폐하게 하여 주민이 없는 땅으로 만들리라
+📖 **마가복음 1:32**
+> 저물어 해 질 때에 모든 병자와 귀신 들린 자를 예수께 데려오니
 
-🕊️ _업데이트 시각: 2025-07-25 09:49:40 KST_
+🕊️ _업데이트 시각: 2025-07-25 13:06:56 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
