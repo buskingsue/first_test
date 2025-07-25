@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **요한계시록 10:2**
-> 그 손에는 펴 놓인 작은 두루마리를 들고 그 오른 발은 바다를 밟고 왼 발은 땅을 밟고
+📖 **열왕기상 6:32**
+> 감람나무로 만든 그 두 문짝에 그룹과 종려와 핀 꽃을 아로새기고 금으로 입히되 곧 그룹들과 종려에 금으로 입혔더라
 
-🕊️ _업데이트 시각: 2025-07-25 19:59:07 KST_
+🕊️ _업데이트 시각: 2025-07-25 20:33:23 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
