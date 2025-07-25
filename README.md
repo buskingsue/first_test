@@ -2,9 +2,9 @@
 # [Daily Bible verse]
 ## [![README에 성경구절 업데이트](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml/badge.svg)](https://github.com/DONGSUKA/first_test/actions/workflows/update-readme-bible.yml)
 <!-- START_BIBLE_VERSE -->
-📖 **열왕기상 6:32**
-> 감람나무로 만든 그 두 문짝에 그룹과 종려와 핀 꽃을 아로새기고 금으로 입히되 곧 그룹들과 종려에 금으로 입혔더라
+📖 **신명기 12:13**
+> 너는 삼가서 네게 보이는 아무 곳에서나 번제를 드리지 말고
 
-🕊️ _업데이트 시각: 2025-07-25 20:33:23 KST_
+🕊️ _업데이트 시각: 2025-07-25 20:46:47 KST_
   <!-- END_BIBLE_VERSE -->
 ## GITHUB_ACTION
